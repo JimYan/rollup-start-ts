@@ -8,7 +8,6 @@ To fast start a typescript library by rollup + jest + eslint + prettier + husky 
 git clone https://github.com/zenoslin/rollup-starter-ts.git
 cd rollup-starter-ts
 npm install
-
 ```
 
 ## scripts
