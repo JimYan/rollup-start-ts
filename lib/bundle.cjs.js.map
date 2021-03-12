@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.cjs.js","sources":["../src/main.ts"],"sourcesContent":["const version = '1.0.1';\n\nexport default (): string => {\n  console.log('a');\n  return `this version is ${version}`;\n};\n"],"names":[],"mappings":";;AAAA,IAAM,OAAO,GAAG,OAAO,CAAC;AAExB,YAAe;IACb,OAAO,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC;IACjB,OAAO,qBAAmB,OAAS,CAAC;AACtC,CAAC;;;;"}
